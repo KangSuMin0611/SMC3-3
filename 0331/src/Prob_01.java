@@ -19,7 +19,7 @@ public class Prob_01 {
 		
 		Scanner scan = new Scanner(System.in);
 		Grade me = new Grade(); 
-		System.out.print("수학, 과학 , 영어 순으로 3개의 점수입력>>");
+		System.out.print("수학, 체육 , 영어 순으로 3개의 점수입력>>");
 		
 		me.math=scan.nextInt();
 		me.sciece=scan.nextInt();
